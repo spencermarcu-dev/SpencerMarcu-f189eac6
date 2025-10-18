@@ -62,7 +62,7 @@ I'm always open to discussing new music projects, collaborations, and performanc
 - 🌍 **Website**: [spencermarcu.com](https://www.spencermarcu.com)
 
 ### 🎤 Live Shows:
-- 🎫 **Bandsintown**: [spencer-marcu](https://www.bandsintown.com/a/12923-arcana)
+- 🎫 **Bandsintown**: [spencer-marcu](https://www.bandsintown.com/a/spencer-marcu)
 - 🎵 **Songkick**: [spencer-marcu](https://www.songkick.com/artists/10172347-spencer-marcu)
 
 - 💼 **Professional**: Explore my musical journey and projects
