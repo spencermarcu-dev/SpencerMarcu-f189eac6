@@ -4,7 +4,7 @@
 
 ## About Me
 
-Software Developer
+American singer-songwriter
 
 ## Skills & Technologies
 
