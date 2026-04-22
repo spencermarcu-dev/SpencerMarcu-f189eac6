@@ -22,7 +22,7 @@ American singer-songwriter. Welcome to my GitHub profile!
 
 ## 💬 Connect with Me
 
-- 📫 Find me on GitHub: [@SPENCERMARCU](https://github.com/spencermarcu-dev)
+- 📫 Find me on GitHub: [@spencermarcu-dev](https://github.com/spencermarcu-dev)
 
 Feel free to explore my repositories and connect with me for collaboration opportunities!
 
