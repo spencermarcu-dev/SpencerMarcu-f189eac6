@@ -4,9 +4,9 @@
 
 ## 🎵 About Me
 
-American singer-songwriter. Welcome to my GitHub profile!
+I'm an American singer-songwriter. Welcome to my GitHub profile!
 
-## 🎸 Skills & Technologies
+## 🎸 Music Skills
 
 ![](https://img.shields.io/badge/Music-Vocals-informational?style=flat&logo=music&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Music-Guitar-informational?style=flat&logo=music&logoColor=white&color=2bbc8a)
