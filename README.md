@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm Spencer Marcu, a Rock n' Roll Singer, Songwrit
 
 I'm Spencer Marcu, a passionate musician dedicated to creating authentic rock and roll music. I believe in the power of music to inspire, connect, and make a difference in people's lives. My work spans songwriting, production, and performance, always striving for artistic excellence and meaningful expression.
 
+*Spencer Marcu.*
+
 ### Current Focus:
 - 🎵 Creating authentic rock and roll music
 - 🎤 Recording and producing new songs
