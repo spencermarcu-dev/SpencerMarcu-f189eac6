@@ -30,12 +30,13 @@ Spencer-Marcu
 ### View All Content Files
 ```bash
 # List all documentation and content files
-find . -name "*.md" -o -name "Spencer-Marcu" | grep -v ".git"
+find . -type f \( -name "*.md" -o -name "Spencer-Marcu" \) -not -path "./.git/*"
 ```
 Expected output:
 ```
-./Spencer-Marcu
 ./README.md
+./.github/copilot-instructions.md
+./Spencer-Marcu
 ```
 
 ## Working Effectively
@@ -54,7 +55,7 @@ Expected output:
    cp "Spencer-Marcu" "Spencer-Marcu.backup"
    ```
 
-2. **Edit content files** using your preferred method (str_replace_editor, nano, vim, etc.)
+2. **Edit content files** using your preferred editor or editing method (for example, nano or vim)
 
 3. **Validate changes immediately**:
    ```bash
@@ -86,7 +87,7 @@ git add "Spencer-Marcu"
 # Commit with descriptive message
 git commit -m "Update profile content: [description of changes]"
 
-# Push changes (use report_progress tool instead when working as coding agent)
+# Push changes
 git push origin [branch-name]
 ```
 
@@ -199,7 +200,7 @@ git --no-pager diff
 wc -l README.md "Spencer-Marcu"
 
 # Find all content files
-find . -name "*.md" -o -name "Spencer-Marcu" | grep -v ".git"
+find . -type f \( -name "*.md" -o -name "Spencer-Marcu" \) -not -path "./.git/*"
 
 # Recent commit history
 git --no-pager log --oneline -5
