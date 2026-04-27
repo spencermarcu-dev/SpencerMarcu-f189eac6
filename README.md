@@ -1,20 +1,28 @@
-# Spencer Marcu
+# Hi there, I'm Spencer Marcu! 👋
 
-@spencermarcu
+![Profile Views](https://komarev.com/ghpvc/?username=spencermarcu-dev&color=blue)
 
-## About Me
+## 🎵 About Me
 
-American singer-songwriter
+I'm an American singer-songwriter. Welcome to my GitHub profile!
 
-## Skills & Technologies
+## 🎸 Music Skills
 
-- vocals
-- guitar 
-- production 
+![](https://img.shields.io/badge/Music-Vocals-informational?style=flat&logo=music&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Music-Guitar-informational?style=flat&logo=music&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Music-Production-informational?style=flat&logo=music&logoColor=white&color=2bbc8a)
 
-## Connect with Me
+## 📊 GitHub Stats
 
-Find me on GitHub: @spencermarcu
+![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencermarcu-dev&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spencermarcu-dev&theme=dark)
+
+## 💬 Connect with Me
+
+- 📫 Find me on GitHub: [@spencermarcu-dev](https://github.com/spencermarcu-dev)
 
 Feel free to explore my repositories and connect with me for collaboration opportunities!
 
