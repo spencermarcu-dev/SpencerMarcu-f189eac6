@@ -1,4 +1,4 @@
-# Readme.SpencerMarcu.md
+# SpencerMarcu.md
 
 @SpencerMarcu
 
