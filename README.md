@@ -1,4 +1,4 @@
-# SpencerMarcu.md
+# SpencerMarcu
 
 @SpencerMarcu
 
