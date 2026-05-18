@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/spencermarcu-dev?label=Follow&style=social)](https://github.com/spencermarcu-dev)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=spencermarcu-dev&color=blue)](https://github.com/spencermarcu-dev)
 
-Welcome to my GitHub profile! I'm Spencer Marcu, a Rock n' Roll Singer, Songwriter, Producer, and Artist creating music that moves souls and builds connections.
+Welcome to my GitHub profile! I'm Spencer Marcu, an American singer-songwriter Rock n' Roll Singer, Songwriter, Producer, and Artist creating music that moves souls and builds connections.
 
 ## 🎵 About Me American singer-songwriter
 
@@ -57,7 +57,7 @@ I'm always open to discussing new music projects, collaborations, and performanc
 - 🎧 **SoundCloud**: [spencermarcu](http://soundcloud.com/spencermarcu)
 
 ### 🌐 Social Media:
-- 🐦 **Twitter**: [@_spencermarcu_](https://www.twitter.com/_spencermarcu_)
+- 🐦 **Twitter**: [@spencermarcu](https://www.twitter.com/_spencermarcu_)
 - 📘 **Facebook**: [SpencerMarcu](https://www.facebook.com/SpencerMarcu)
 - 🌍 **Website**: [spencermarcu.com](https://www.spencermarcu.com)
 
